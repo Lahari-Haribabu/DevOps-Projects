@@ -61,8 +61,8 @@ I’m passionate about cloud infrastructure, automation, and building robust dep
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-lahari--haribabu-181717?style=for-the-badge&logo=github)](https://github.com/lahari-haribabu)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lahari-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lahari-haribabu/)
+[![GitHub](https://img.shields.io/badge/GitHub-lahari--haribabu-181717?style=for-the-badge&logo=github)](https://github.com/Lahari-Haribabu)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lahari-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-lahari/)
 
 ---
 
