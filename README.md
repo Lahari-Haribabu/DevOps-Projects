@@ -1,4 +1,4 @@
-# Real-World DevOps/Cloud Projects For Learning from Beginner to Advanced ♐
+# Real-World DevOps/Cloud Projects For Learning from Beginner to Advanced ♐  
 # 🚀 DevOps Projects by Lahari
 
 Welcome to my DevOps Projects repository! This space showcases hands-on projects that demonstrate real-world DevOps practices, covering beginner to advanced levels.
@@ -9,25 +9,25 @@ Welcome to my DevOps Projects repository! This space showcases hands-on projects
 
 ## 📁 Projects Included
 
-| Level | Project | Description |
-|-------|---------|-------------|
-| Beginner | Docker Basics | Build, run, and manage containers |
-| Intermediate | CI/CD with GitHub Actions | Automated build and deployment pipelines |
-| Advanced | Java App on AWS with VPC | 3-tier architecture deployment with EC2, RDS, and Load Balancer |
-| Advanced | Monitoring with CloudWatch | Real-time application monitoring and alerts |
+| Level       | Project                      | Description                                             |
+|-------------|------------------------------|---------------------------------------------------------|
+| Beginner    | Docker Basics                | Build, run, and manage containers                       |
+| Intermediate| CI/CD with GitHub Actions    | Automated build and deployment pipelines                |
+| Advanced    | Java App on AWS with VPC     | 3-tier architecture deployment with EC2, RDS, Load Balancer |
+| Advanced    | Monitoring with CloudWatch   | Real-time application monitoring and alerts             |
 
 ---
 
 ## 🧰 Tools & Technologies
 
-- Docker, Docker Compose
-- Git & GitHub
-- GitHub Actions
-- AWS (EC2, RDS, VPC, IAM)
-- Jenkins
-- Terraform (IaC)
-- SonarCloud, JFrog Artifactory
-- Monitoring: CloudWatch, Grafana
+- Docker, Docker Compose  
+- Git & GitHub  
+- GitHub Actions  
+- AWS (EC2, RDS, VPC, IAM)  
+- Jenkins  
+- Terraform (IaC)  
+- SonarCloud, JFrog Artifactory  
+- Monitoring: CloudWatch, Grafana  
 
 ---
 
@@ -43,9 +43,9 @@ Welcome to my DevOps Projects repository! This space showcases hands-on projects
 ## 📌 Getting Started
 
 Each project contains its own `README.md` with:
-- Setup instructions
-- Architecture diagrams
-- Tools used
+- Setup instructions  
+- Architecture diagrams  
+- Tools used  
 - Validation steps
 
 ---
@@ -61,7 +61,7 @@ I’m passionate about cloud infrastructure, automation, and building robust dep
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-lahari--haribabu-181717?style=for-the-badge&logo=github)](https://github.com/lahari-haribabu)
+[![GitHub](https://img.shields.io/badge/GitHub-lahari--haribabu-181717?style=for-the-badge&logo=github)](https://github.com/lahari-haribabu)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lahari-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lahari-haribabu/)
 
 ---
